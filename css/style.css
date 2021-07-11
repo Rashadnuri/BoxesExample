@@ -1,0 +1,115 @@
+.mainbox {border: solid 1px black;
+min-height: 900px;
+padding: 10px;}
+
+.logo { border: solid 1px black; 
+ width: 150px;
+height: 50px;
+display: inline-block;
+background-color: rgba(128, 128, 128, 0.719);
+}
+
+.futurebanner { border: solid 1px black; 
+    width: 1029px;
+   height: 50px;
+display: inline-block;
+margin-left: 675px;
+background-color: rgba(128, 128, 128, 0.719);
+}
+
+.mainnavigation { border: solid 1px black;
+width: 1865px;
+height: 50px;
+background-color: rgba(128, 128, 128, 0.719);
+margin: 10px 0px;
+}
+
+.dow { border: solid 1px black;
+background-color: rgba(128, 128, 128, 0.719);
+width: 900px;
+height: 400px;
+display: inline-block;
+margin: 10px 10px;
+}
+
+.msu { border: solid 1px black;
+ width: 600px;
+height: 500px;
+background-color: rgba(128, 128, 128, 0.719);
+display: inline-block;
+}
+
+.dos {border: solid 1px black;
+    background-color: rgba(128, 128, 128, 0.719);
+ width: 700px;
+height: 350px;
+display: inline-block;
+margin: 0px 10px;
+}
+
+.hp {border: solid 1px black;
+    background-color: rgba(128, 128, 128, 0.719);
+width: 900px;
+height: 400px;
+display: inline-block;
+margin: 10px 10px;
+}
+
+.pu {border: solid 1px black;
+    background-color: rgba(128, 128, 128, 0.719);
+ width: 600px;
+height: 1000px;
+ display: inline-block;
+margin: 10px 10px;
+}
+
+.centrebox {display: flex;
+    flex-wrap: nowrap;
+    }
+
+.highbox{ display: flex;
+    flex-wrap: nowrap;
+}
+
+.lbp { border: solid 1px black;
+    background-color: rgba(128, 128, 128, 0.719);
+margin: 10px 10px;
+width: 700px;
+height: 800px;
+display: inline-block;
+}
+
+.lowbox {display: flex;
+    flex-wrap: nowrap;}
+
+    .hcd { border: solid 1px black;
+        background-color: rgba(128, 128, 128, 0.719);
+     width: 700px;
+    height: 600px;
+display: inline-block;
+position: relative;
+top: -595px;
+left: 10px;
+}
+
+.hdfp { border:  solid 1px black;
+    background-color: rgba(128, 128, 128, 0.719);
+width: 400px;
+height: 300px;
+display: inline-block;
+position: relative;
+left: 660px;
+    top: -200px;
+}
+
+.fooster {border: solid 1px black;
+    background-color: rgba(128, 128, 128, 0.719);
+width: 1865px;
+height: 200px;
+display: inline-block;
+position: relative;
+
+}
+
+.bf {display: flex;
+flex-wrap: nowrap; }
